@@ -1,0 +1,31 @@
+{
+  "name": "telegram_inventar_bot",
+  "version": "1.0.0",
+  "description": "establishes a telegram messenger bot, by using telegram bot api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haemse/telegram_inventarBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "chatbot",
+    "inventary",
+    "inventory",
+    "manage",
+    "things"
+  ],
+  "author": "Jacob Haemmerle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haemse/telegram_inventarBot/issues"
+  },
+  "homepage": "https://github.com/haemse/telegram_inventarBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
